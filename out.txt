@@ -1,0 +1,430 @@
+
+_______________Question_____________________
+Which of the following is a supervised learning problem?
+____________________________________________
+
+
+
+
+                Grouping related documents from an unannotated corpus.
+              
+
+
+
+
+                Predicting credit approval based on historical data
+              
+
+
+
+
+                Predicting rainfall based on historical data
+              
+
+
+
+
+                Predicting if a customer is going to return or keep a particular product he/she purchased
+from e-commerce website based on the historical data about the customer purchases and
+the particular product.
+              
+
+
+
+
+                Fingerprint recognition of a particular person used in biometric attendance from the
+fingerprint data of various other people and that particular person
+              
+
+
+_______________Question_____________________
+Which of the following is not a classification problem?
+____________________________________________
+
+
+
+
+                Predicting the temperature (in Celsius) of a room from other environmental features (such
+as atmospheric pressure, humidity etc).
+              
+
+
+
+
+                Predicting if a cricket player is a batsman or bowler given his playing records.
+              
+
+
+
+
+                Predicting the price of house (in INR) based on the data consisting prices of other house
+(in INR) and its features such as area, number of rooms, location etc.
+              
+
+
+
+
+                Filtering of spam messages
+              
+
+
+
+
+                Predicting the weather for tomorrow as “hot”, “cold”, or “rainy” based on the historical
+data wind speed, humidity, temperature, and precipitation.
+              
+
+
+_______________Question_____________________
+Which of the following is a regression task? (multiple options may be correct)
+____________________________________________
+
+
+
+
+                Predicting the monthly sales of a cloth store in rupees.
+              
+
+
+
+
+                Predicting if a user would like to listen to a newly released song or not based on historical
+data.
+              
+
+
+
+
+                Predicting the confirmation probability (in fraction) of your train ticket whose current
+status is waiting list based on historical data.
+              
+
+
+
+
+                Predicting if a patient has diabetes or not based on historical medical records.
+              
+
+
+
+
+                Predicting if a customer is satisfied or unsatisfied from the product purchased from e-commerce website using the the reviews he/she wrote for the purchased product.
+              
+
+
+_______________Question_____________________
+Which of the following is an unsupervised task?
+____________________________________________
+
+
+
+
+                Predicting if a new edible item is sweet or spicy based on the information of the ingredients, their quantities, and labels (sweet or spicy) for many other similar dishes.
+              
+
+
+
+
+                Grouping related documents from an unannotated corpus.
+              
+
+
+
+
+                Grouping of hand-written digits from their image.
+              
+
+
+
+
+                Predicting the time (in days) a PhD student will take to complete his/her thesis to earn a
+degree based on the historical data such as qualifications, department, institute, research
+area, and time taken by other scholars to earn the degree.
+              
+
+
+
+
+                all of the above
+              
+
+
+_______________Question_____________________
+Which of the following is a categorical feature?
+____________________________________________
+
+
+
+
+                Number of rooms in a hostel.
+              
+
+
+
+
+                Minimum RAM requirement (in GB) of a system to play a game like FIFA, DOTA.
+              
+
+
+
+
+                Your weekly expenditure in rupees.
+              
+
+
+
+
+                Ethnicity of a person
+              
+
+
+
+
+                Area (in sq. centimeter) of your laptop screen.
+              
+
+
+
+
+                The color of the curtains in your room.
+              
+
+
+_______________Question_____________________
+
+Let  and  be a uniformly distributed random variable over the interval [0, 4] and [0, 6]
+respectively. If  and  are independent events, then compute the probability,
+
+____________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                None of the above
+              
+
+
+_______________Question_____________________
+
+Let the trace and determinant of a matrix  be 6 and 16 respectively. The eigenvalues of A are
+____________________________________________
+
+
+
+
+
+  where 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  where 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  where 
+
+
+
+
+
+
+
+
+
+
+
+
+                None of the above
+              
+
+
+
+
+                Can be computed only if A is a symmetric matrix.
+              
+
+
+
+
+                Can be computed only if A is a symmetric matrix.
+              
+
+
+
+
+                Can not be computed as the entries of the matrix A are not given.
+              
+
+
+_______________Question_____________________
+What happens when your model complexity increases? (multiple options may be correct)
+____________________________________________
+
+
+
+
+                Model Bias decreases
+              
+
+
+
+
+                Model Bias increases
+              
+
+
+
+
+                Variance of the model decreases
+              
+
+
+
+
+                Variance of the model increases
+              
+
+
+_______________Question_____________________
+A new phone, E-Corp X1 has been announced and it is what you’ve been waiting for, all along.
+You decide to read the reviews before buying it. From past experiences, you’ve figured out
+that good reviews mean that the product is good 90% of the time and bad reviews mean that
+it is bad 70% of the time. Upon glancing through the reviews section, you find out that the X1
+has been reviewed 1269 times and only 172 of them were bad reviews. What is the probability
+that, if you order the X1, it is a bad phone?
+____________________________________________
+
+
+
+
+                0.136
+              
+
+
+
+
+                0.160
+              
+
+
+
+
+                0.360
+              
+
+
+
+
+                0.840
+              
+
+
+
+
+                0.773
+              
+
+
+
+
+                0.573
+              
+
+
+
+
+                0.181
+              
+
+
+_______________Question_____________________
+Which of the following are false about bias and variance of overfitted and underfitted models?
+(multiple options may be correct)
+____________________________________________
+
+
+
+
+                Underfitted models have high bias.
+              
+
+
+
+
+                Underfitted models have low bias.
+              
+
+
+
+
+                Overfitted models have low variance.
+              
+
+
+
+
+                Overfitted models have high variance.
+              
+
