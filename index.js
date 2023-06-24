@@ -21,5 +21,6 @@ app.post("/answer", async (req, res) => {
   ).then((response) => response.json())
     .then((response) => {
       console.log(response.choices[0].message.content)
+      console.log("helllo")
     })
 })
